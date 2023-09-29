@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayraj-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="udayraj-sahu" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,MERN Stack**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://udayraj-sahu-portfolio.netlify.app/?fbclid=PAAab14MBDuDElGg_Vfy5408O_bbFELj23dYn6tSZPs_GPgGzck86SN5wDGuE](https://udayraj-sahu-portfolio.netlify.app/?fbclid=PAAab14MBDuDElGg_Vfy5408O_bbFELj23dYn6tSZPs_GPgGzck86SN5wDGuE)
 
