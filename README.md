@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Udayraj Sahu</h1>
-<h3 align="center">"Web development enthusiast 🌐 | 3rd-year B.Tech student @Medicaps Univ 🎓 | Proficient in HTML, CSS, JS; Familiar with ReactJS ⚛️ | Crafting digital experiences one code at a time."</h3>
+<h3 align="center">"Machine Learning enthusiast 🌐 | 4th-year B.Tech student @Medicaps Univ 🎓 | Proficient in HTML, CSS, JS; Familiar with ReactJS ⚛️ | Crafting digital experiences one code at a time."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayraj-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="udayraj-sahu" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://udayraj-sahu-portfolio.netlify.app/?fbclid=PAAab14MBDuDElGg_Vfy5408O_bbFELj23dYn6tSZPs_GPgGzck86SN5wDGuE](https://udayraj-sahu-portfolio.netlify.app/?fbclid=PAAab14MBDuDElGg_Vfy5408O_bbFELj23dYn6tSZPs_GPgGzck86SN5wDGuE)
 
