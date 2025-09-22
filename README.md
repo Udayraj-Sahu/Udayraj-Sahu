@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udayraj Sahu</h1>
-<h3 align="center">"Machine Learning enthusiast 🌐 | 4th-year B.Tech student @Medicaps Univ 🎓 | Proficient in HTML, CSS, JS; Familiar with ReactJS ⚛️ | Crafting digital experiences one code at a time."</h3>
+<h3 align="center">"React.js Developer | Frontend Enthusiast | Exploring 3D Web Experiences"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayraj-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="udayraj-sahu" /> </p>
 
