@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 All of my projects are available at [https://udayraj-sahu-portfolio.netlify.app/?fbclid=PAAab14MBDuDElGg_Vfy5408O_bbFELj23dYn6tSZPs_GPgGzck86SN5wDGuE](https://udayraj-sahu-portfolio.netlify.app/?fbclid=PAAab14MBDuDElGg_Vfy5408O_bbFELj23dYn6tSZPs_GPgGzck86SN5wDGuE)
+- 👨‍💻 All of my projects are available at (https://udayraj-portfolio-beta.vercel.app/)
 
 - 📫 How to reach me **udayrajsahu123@gmail.com**
 
